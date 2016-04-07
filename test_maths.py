@@ -4,4 +4,4 @@ def sq(x):
 
 def test_square():
     x = 4
-    assert square(x) == 16
+    assert sq(x) == 16
