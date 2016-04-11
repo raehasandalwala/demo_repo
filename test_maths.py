@@ -1,7 +1,6 @@
-def sq(x):
-    return x ** 2
+from math import square
 
 
 def test_square():
     x = 4
-    assert sq(x) == 16
+    assert math.square(x) == 16
