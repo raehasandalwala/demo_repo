@@ -1,4 +1,4 @@
 #empty line
-def square(x):
+def sq(x):
 	return x**2
 
