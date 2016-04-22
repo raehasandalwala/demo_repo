@@ -1,4 +1,4 @@
-# function to calculate square
+#empty line
 def square(x):
 	return x**2
 
